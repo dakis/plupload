@@ -1,0 +1,14 @@
+{
+    "name": "plupload",
+    "version": "2.1.2",
+    "main": "js/plupload.dev.js,js/moxie.js",
+    "ignore": [
+        "**/.*",
+        "component.json",
+        "Moxie.swf",
+        "Moxie.xap",
+        "moxie.min.js",
+        "plupload.full.min.js",
+        "plupload.min.js"
+    ]
+}
