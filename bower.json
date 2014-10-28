@@ -1,14 +1,19 @@
 {
     "name": "plupload",
     "version": "2.1.2",
-    "main": "js/plupload.dev.js,js/moxie.js",
+    "main": [
+        "js/plupload.dev.js",
+        "js/moxie.js"
+    ],
     "ignore": [
         "**/.*",
+        "license.txt",
+        "Jakefile.js",
         "component.json",
-        "Moxie.swf",
-        "Moxie.xap",
-        "moxie.min.js",
-        "plupload.full.min.js",
-        "plupload.min.js"
+        "js/Moxie.swf",
+        "js/Moxie.xap",
+        "js/moxie.min.js",
+        "js/plupload.full.min.js",
+        "js/plupload.min.js"
     ]
 }
