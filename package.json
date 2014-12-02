@@ -11,14 +11,14 @@
     "homepage": "http://plupload.com",
     "repository": {
         "type": "git",
-        "url": "https://github.com/moxiecode/plupload.git"
+        "url": "https://github.com/dakis/plupload.git"
     },
     "bugs": {
-        "url": "https://github.com/moxiecode/plupload/issues"
+        "url": "https://github.com/dakis/plupload/issues"
     },
     "licenses": [{
         "type": "GPLv2",
-        "url": "https://github.com/moxiecode/plupload/blob/master/license.txt"
+        "url": "https://github.com/dakis/plupload/blob/master/license.txt"
     }, {
         "type": "Single Website",
         "url": "http://plupload.com/license/plupload_commercial_single.txt"
